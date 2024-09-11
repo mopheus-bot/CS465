@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\controllers",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\app_server\\views\\layouts",
+    "\\app_server\\views\\partials",
+    "\\bin",
+    "\\public"
+  ],
+  "SelectedNode": "\\app_server\\routes\\index.js",
+  "PreviewInSolutionExplorer": false
+}
