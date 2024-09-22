@@ -8,8 +8,9 @@
     "\\app_server\\views\\layouts",
     "\\app_server\\views\\partials",
     "\\bin",
+    "\\data",
     "\\public"
   ],
-  "SelectedNode": "\\app_server\\routes\\index.js",
+  "SelectedNode": "\\app_server\\views\\error.hbs",
   "PreviewInSolutionExplorer": false
 }
