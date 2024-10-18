@@ -12,9 +12,11 @@ router
 
 // GET method routes tripsFindByCode - requires parameter
 // PUT method routes tripsUpdateTrip - requires parameter
+// DELETE method routes tripsDeleteTrip - requires parameter
 router
     .route('/trips/:tripCode')
     .get(tripsController.tripsFindByCode)
-    .put(tripsController.tripsUpdateTrip);
+    .put(tripsController.tripsUpdateTrip)
+    .delete (tripsController.tripsDeleteByCode);
 
 module.exports = router;

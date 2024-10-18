@@ -84,7 +84,7 @@ const tripsAddTrip = async (req, res) => {
     // console.log(q)
 };
 
-// PUT: /trips/:tripCode - Adds a new Trip
+// PUT: /trips/:tripCode - Updates an existing Trip
 // Regardless of outcome, response must include HTML status code
 // and JSON message to the requesting client
 const tripsUpdateTrip = async (req, res) => {
@@ -120,9 +120,34 @@ const tripsUpdateTrip = async (req, res) => {
     // console.log(q);
 };
 
+// DELETE: /trips/:tripCode - Deletes an existing trip
+// Regardless of outcome, response must include HTML status code
+// and JSON message to the requesting client
+const tripsDeleteByCode = async (req, res) => {
+    const q = await Model
+        .deleteOne({ 'code': req.params.tripCode }) // Delete single record
+        .exec();
+
+    //Uncomment following line to show results of query
+    // on the console
+    //     console.log(q);
+
+    if (!q) { // Database returned no data
+        return res
+            .status(404)
+            .json(err);
+    } else { // Return resulting trip list
+        return res
+            .status(200)
+            .json(q);
+    }
+
+};
+
 module.exports = {
     tripsList,
     tripsFindByCode,
     tripsAddTrip,
-    tripsUpdateTrip
+    tripsUpdateTrip,
+    tripsDeleteByCode
 };
