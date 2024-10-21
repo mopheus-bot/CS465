@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\authentication.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\controllers\\authentication.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\authentication.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\config\\passport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\config\\passport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "add-trip.component.ts",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.component.ts",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.component.ts",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.component.ts",
-              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-18T21:14:54.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "trips.js",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\trips.js",
-              "RelativeDocumentMoniker": "app_api\\controllers\\trips.js",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\trips.js",
-              "RelativeToolTip": "app_api\\controllers\\trips.js",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAH0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-17T15:14:33.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "trip-card.component.ts",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.ts",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.component.ts",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.ts",
-              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-17T14:25:50.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "trip-data.service.ts",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.service.ts",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts",
-              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-17T13:52:06.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "trip-listing.component.ts",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.ts",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.component.ts",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.ts",
-              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-17T14:38:21.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js",
-              "RelativeDocumentMoniker": "app_api\\routes\\index.js",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js",
-              "RelativeToolTip": "app_api\\routes\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-18T19:45:04.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "trip-card.component.html",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.html",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.component.html",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.component.html",
-              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-18T19:49:09.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app.js",
               "RelativeDocumentMoniker": "app.js",
               "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app.js",
               "RelativeToolTip": "app.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAVAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAE0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-11T15:21:02.578Z",
+              "WhenOpened": "2024-10-21T03:41:39.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "trip-listing.component.html",
-              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.html",
-              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.component.html",
-              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.component.html",
-              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.component.html",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_api\\routes\\index.js",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\routes\\index.js",
+              "RelativeToolTip": "app_api\\routes\\index.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-17T14:41:01.966Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T03:39:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.js",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\models\\user.js",
+              "RelativeDocumentMoniker": "app_api\\models\\user.js",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\models\\user.js",
+              "RelativeToolTip": "app_api\\models\\user.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T03:38:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "authentication.js",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\authentication.js",
+              "RelativeDocumentMoniker": "app_api\\controllers\\authentication.js",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\controllers\\authentication.js",
+              "RelativeToolTip": "app_api\\controllers\\authentication.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T03:38:43.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "authentication.service.ts",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\authentication.service.ts",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\authentication.service.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-21T03:38:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trip-data.service.ts",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.service.ts",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.service.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.service.ts",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-21T03:38:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "passport.js",
+              "DocumentMoniker": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\config\\passport.js",
+              "RelativeDocumentMoniker": "app_api\\config\\passport.js",
+              "ToolTip": "C:\\Users\\moda1\\Desktop\\SNHU\\CS-465\\travlr\\app_api\\config\\passport.js",
+              "RelativeToolTip": "app_api\\config\\passport.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-20T18:14:20.958Z",
               "EditorCaption": ""
             }
           ]
