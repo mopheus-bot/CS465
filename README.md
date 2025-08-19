@@ -1,6 +1,6 @@
 # Full-Stack Development (MEAN)
-CS465 - Angular, Node.js, Express.js, MongoDB, REST, SPA, Components, MEAN, Agile
-Angular SPA + Express + MongoDB architecture thinking, JSON data exchange, reusable components
+CS465 - Angular, Node.js, Express.js, MongoDB, REST, SPA, Components, MEAN, Agile.
+Angular SPA + Express + MongoDB architecture thinking, JSON data exchange, reusable components.
 
 1) Architecture
 
